@@ -1,0 +1,2 @@
+# trivials
+My trivial scripts
